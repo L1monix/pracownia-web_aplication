@@ -49,7 +49,3 @@
 | **Magazynier** | Bieżąca obsługa magazynu (3 osoby). | Wyszukiwanie produktów, sprawdzanie lokalizacji, przyjmowanie i wydawanie towaru. |
 | **Kierownik magazynu** | Nadzór nad magazynem, potrzebuje szerszej informacji; może pracować poza magazynem. | Przeglądanie stanów, zarządzanie produktami, przeglądanie historii, raporty, wyszukiwanie produktów. |
 | **Administrator** | Odpowiada za użytkowników i dostęp do systemu. | Zarządzanie kontami, nadawanie ról, reset haseł. |
-
-## 4. Diagram przypadków użycia
-
-Źródło PlantUML: [`use_case_diagram.puml`](use_case_diagram.puml) (renderowanie: plantuml.com lub rozszerzenie PlantUML w VS Code; wyeksportuj do `use_case_diagram.png` i dodaj do repozytorium).
