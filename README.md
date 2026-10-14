@@ -1,9 +1,4 @@
 # Elektro-Bud – analiza wymagań
-
-> **Uwaga:** niniejsza wersja powstała na podstawie dokumentu *Elektro-Bud – wstępny opis potrzeb klienta*.
-> Nagranie rozmowy z klientem (`.m4a`, ~10 min) **nie zostało jeszcze uwzględnione**.
-> Pozycje oznaczone **(zał.)** to założenia do potwierdzenia/uzupełnienia na podstawie nagrania.
-
 ## 1. Wymagania funkcjonalne
 
 | ID | Nazwa |
@@ -54,8 +49,6 @@
 | **Magazynier** | Bieżąca obsługa magazynu (3 osoby). | Wyszukiwanie produktów, sprawdzanie lokalizacji, przyjmowanie i wydawanie towaru. |
 | **Kierownik magazynu** | Nadzór nad magazynem, potrzebuje szerszej informacji; może pracować poza magazynem. | Przeglądanie stanów, zarządzanie produktami, przeglądanie historii, raporty, wyszukiwanie produktów. |
 | **Administrator** | Odpowiada za użytkowników i dostęp do systemu. | Zarządzanie kontami, nadawanie ról, reset haseł. |
-
-Założenie **(zał.)**: Kierownik nie dziedziczy uprawnień Magazyniera (dokument nie mówi, że wykonuje przyjęcia/wydania). Do potwierdzenia z klientem.
 
 ## 4. Diagram przypadków użycia
 
